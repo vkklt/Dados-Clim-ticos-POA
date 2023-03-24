@@ -1,5 +1,5 @@
 # Dados Climáticos de Porto Alegre
-Programa para ler e buscar dados sobre o clima de Porto Alegre de 1961 a 2016.
+Programa para ler, buscar e calcular dados sobre o clima de Porto Alegre de 1961 a 2016.
 
 Parte 1: Exibe todos os dados de todos os dias na tela; 
          Procura pelos dados de precipitação pelo dia e o mês informados pelo usuário; 
