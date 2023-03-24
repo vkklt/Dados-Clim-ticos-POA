@@ -146,3 +146,5 @@ def calcularVolumeDecada(dados):
 mesMaisChuvoso(chave,valoresMes,dadosMes)
 mediaEmodaAgosto(dados)
 calcularVolumeDecada(dados)
+
+dadosExternos.close() # Fechei o arquivo
