@@ -3,7 +3,7 @@ Programa para ler e buscar dados sobre o clima de Porto Alegre de 1961 a 2016.
 
 Parte 1: Exibe todos os dados de todos os dias na tela; 
          Procura pelos dados de precipitação pelo dia e o mês informados pelo usuário; 
-         Exibe a temperatura máxima dos 7 primeiros dias de cada Mês de um ano informado pelo usuário, além de mostrar quais desses 7 dias teve uma maior temperatura entre as máximas.
+         Exibe a temperatura máxima dos 7 primeiros dias de cada mês de um ano informado pelo usuário, além de mostrar quais desses 7 dias teve uma maior temperatura entre as máximas.
          
     
 parte 2: Exibe o mês e o ano com o maior volume de chuva;
